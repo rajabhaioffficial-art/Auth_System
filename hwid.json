@@ -1,0 +1,6 @@
+{
+  "allowed": [
+    "example-device-123",
+    "example-device-456"
+  ]
+}
