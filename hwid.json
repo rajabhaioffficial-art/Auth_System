@@ -1,6 +1,7 @@
 {
-  "allowed": [
-    "example-device-123",
-    "example-device-456"
-  ]
+    "raja": {
+        "password": "12345",
+        "hwid": "test_device",
+        "expiry": "2025-12-31"
+    }
 }
